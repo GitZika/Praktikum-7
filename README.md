@@ -157,7 +157,7 @@ kalian juga bisa menghapus data yang anda inginkan
     
 <img width="359" alt="hapus 1" src="https://user-images.githubusercontent.com/118233561/206830751-494e38f7-c471-4669-9a6f-62f0d844cfa5.png">
     
-hasilnya akan seperti ini
+lalu data yang kalian hapus akan terhapus
     
 <img width="502" alt="hapus 2" src="https://user-images.githubusercontent.com/118233561/206830770-d7de0090-cc8c-40c3-bba1-ca4a42363297.png">
     
@@ -167,7 +167,7 @@ atau kalian bisa mengubah data tersebut bila ada kesalahan input pada data
     
 <img width="350" alt="ubah 1" src="https://user-images.githubusercontent.com/118233561/206830837-705d99b9-a560-480c-9c99-2cec70200a63.png">
     
-hasilnya akan seperti ini
+lalu data yang kalian ubah akan berubah
     
 <img width="502" alt="ubah 2" src="https://user-images.githubusercontent.com/118233561/206830849-55c0ccb9-10a9-4663-a628-a27e90883838.png">
     
@@ -182,6 +182,9 @@ kalian bisa menggunakan "cari" untuk mencari data apabila data yang tersimpan ba
 kalian bisa keluar dari program untuk menyudahi program
     
 <img width="466" alt="Keluar" src="https://user-images.githubusercontent.com/118233561/206830930-b4637e78-c2e1-4b89-9c33-ae60643f9ba4.png">
+    
+    
+# SEKIAN TERIMAKASIH MOHON MAAF BILA ADA KESALAHAN
 
 
 
