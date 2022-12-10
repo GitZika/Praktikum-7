@@ -182,6 +182,13 @@ kalian bisa menggunakan "cari" untuk mencari data apabila data yang tersimpan ba
 kalian bisa keluar dari program untuk menyudahi program
     
 <img width="466" alt="Keluar" src="https://user-images.githubusercontent.com/118233561/206830930-b4637e78-c2e1-4b89-9c33-ae60643f9ba4.png">
+
+
+
+## Flowchart
+
+<img width="543" alt="flow" src="https://user-images.githubusercontent.com/118233561/206831289-10c4b936-b823-495b-a30e-019438272b56.png">
+
     
     
 # SEKIAN TERIMAKASIH MOHON MAAF BILA ADA KESALAHAN
