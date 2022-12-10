@@ -51,7 +51,7 @@
         while True:
             menu()
 
-#### 3. Menu program tambah data
+#### 3. Menu program untuk menambahkan data
 
         def add():
             print("Tambah Data")
@@ -63,7 +63,7 @@
             akhir = (tugas * 30 / 100) + (uts * 35 / 100) + (uas * 35 / 100)
             mahasiswa[nama] = nim, tugas, uts, uas, akhir
 
-#### 4. Menu program lihat data
+#### 4. Menu program untuk melihat data
 
         def show():
             if mahasiswa.items():
@@ -86,7 +86,7 @@
                 print("|                                TIDAK ADA DATA                                 |")
                 print("=================================================================================")
 
-#### 5. Menu program ubah data
+#### 5. Menu program untuk mengubah data
 
         def update():
             print("Ubah Data")
@@ -102,7 +102,7 @@
             else:
                 print("Nama tidak ditemukan ")
 
-#### 6. Menu program hapus data
+#### 6. Menu program untuk menghapus data
 
         def delete():
             print("Hapus Data")
@@ -114,7 +114,7 @@
             else:
                 print("Nama tidak ditemukan")
 
-#### 7. Menu program cari data
+#### 7. Menu program untuk mencari data
 
         def search():
             print("Cari Data")
